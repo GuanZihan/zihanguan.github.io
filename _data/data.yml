@@ -9,35 +9,19 @@ sidebar:
     # Profile information
     name: Zihan Guan
     tagline: MSc. Computing
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: zihan.guan20@ic.ac.uk
     phone: (+44)075292801871
-    website: guanzihan.github.io/zihanguan.github.io/ #do not add http://
-    linkedin: alandoe
-    xing: alandoe
     github: https://github.com/GuanZihan
 
     languages:
       - idiom: English
+        level: Fluent
+
+      - idiom: Chinese
         level: Native
-
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
-
-    interests:
-      - item: Climbing
-        link:
-
-      - item: Snowboarding
-        link:
-
-      - item: Cooking
-        link:
 
 career-profile:
     title: Career Profile
