@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: zihan.guan20@ic.ac.uk
     phone: (+44)075292801871
-    github: github.com/GuanZihan
+    github: GuanZihan
 
     languages:
       - idiom: English
@@ -24,24 +24,16 @@ sidebar:
         level: Native
 
 career-profile:
-    title: Career Profile
+    title: Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I am a MSc student in Computing at Imperial College London. My research interest includes optimization, machine learning and scheduling.
+      Currently, I'm doing my MSc project with Dr.Zheng on the robustness verification of neural networks.
 education:
     - degree: MSc in Computing
       university: Imperial College London
       time: 2020 - 2021
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        Coursework: Principles and Application of Database; Data structure; Information system development tool; Operation Research; Logistics Simulation
           - Bullet point
           - Bullet point
     - degree: BSc in Logistics Management
